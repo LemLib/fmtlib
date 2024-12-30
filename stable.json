@@ -1,0 +1,22 @@
+[
+  {
+    "metadata": {
+      "location": "https://github.com/LemLib/fmtlib/releases/download/v11.1.1/fmtlib%4011.1.1.zip"
+    },
+    "name": "fmtlib",
+    "py/object": "pros.conductor.templates.base_template.BaseTemplate",
+    "supported_kernels": "^4.1.1",
+    "target": "v5",
+    "version": "11.1.1"
+  },
+  {
+    "metadata": {
+      "location": "https://github.com/LemLib/fmtlib/releases/download/1.0.0/fmtlib%401.0.0.zip"
+    },
+    "name": "fmtlib",
+    "py/object": "pros.conductor.templates.base_template.BaseTemplate",
+    "supported_kernels": "^4.1.1",
+    "target": "v5",
+    "version": "1.0.0"
+  }
+]
